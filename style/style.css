@@ -46,7 +46,7 @@ body {
 }
 
 .apresentacao {
-    padding: 8% 16%;
+    padding: 5% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -134,7 +134,7 @@ body {
 
     .apresentacao{
         flex-direction: column-reverse;
-        padding: 5%;
+        padding: 5% 10%;
     }
 
     .apresentacao__conteudo{
